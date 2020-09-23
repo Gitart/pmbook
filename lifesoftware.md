@@ -3,7 +3,7 @@
 https://ru.qwe.wiki/wiki/Software_requirements_specification
 
 
-|CODE|Description|IEE|
+|CODE|Description|IEEE|
 |---|-----|-----|
 |SQA|Обеспечение качества программного обеспечения |IEEE 730|
 |SCM|Управление конфигурацией программного обеспечения| IEEE 828|
