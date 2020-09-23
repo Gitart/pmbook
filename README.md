@@ -1,2 +1,6 @@
-# pmbook
-Documents and sample template
+Описание
+========
+
+В данном репозитории находится перевод Рекомендации IEEE по разработке требований к программному обеспечению **IEEE Std 830-1998** в формате Markdown.
+
+Текст перевода взят с сайта [club.shelek.ru](http://club.shelek.ru/view.php?id=59).
